@@ -3,7 +3,9 @@ logo: "/images/Profilephoto1.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   First description 
+  
   A reliable and accountable tourism & hospitality professional, with an aim to establish a career as a data analyst, to provide valuable data-driven insights to organisations. A strong team player and independent individual with a proven track record in outstanding work performance, teamwork,  communications & management skills, with testimonies & awards from multiple organizations, striving to provide outstanding value to the company.
+  
   <br><br>
   
   Second description 
@@ -12,5 +14,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   <a href="https://www.linkedin.com/in/calvin-chee/">View My LinkedIn Profile</a> 
   
+  <br><br>
+    
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
