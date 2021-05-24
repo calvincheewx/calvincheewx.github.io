@@ -6,7 +6,7 @@
 
 [Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel](/sample_page)
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Capstone_Project_1_Dashboard.PNG"/>
 
 ---
 [Capstone Project 2: Data Analysis using SQL and creating Dashboard with Microsoft Excel](/pdf/sample_presentation.pdf)
