@@ -1,5 +1,5 @@
 title: Calvin Chee # your name (or website title) here
-logo: ("/images/Profilephoto1.jpg" =250x250) # your photo (or logo) here
+logo: "/images/Profilephoto1.jpg/=250x250/" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
 
   <br><br>
