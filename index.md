@@ -17,7 +17,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-### [Capstone Project 4: Machine Learning using Python](/pdf/sample_presentation.pdf)
+### [Capstone Project 4: Machine Learning with Python](/pdf/sample_presentation.pdf)
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
