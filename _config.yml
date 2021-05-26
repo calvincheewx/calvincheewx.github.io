@@ -1,9 +1,9 @@
 title: Calvin Chee # your name (or website title) here
 logo: "images/Profilephoto1.1.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br><br>
+  <br>
   An independent individual and strong team player, with an aim to establish a career as a data analyst, to provide valuable data-driven insights to organisations. 
-  <br><br>
+  <br>
   <a href="https://www.linkedin.com/in/calvin-chee/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
