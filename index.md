@@ -14,6 +14,7 @@
 ---
 [Capstone Project 3: Creating Interactive Dashboard with PowerBI](http://example.com/)
 
+<img src="images/Capstone_3_Dashboards.PNG"/>
 
 ---
 [Capstone Project 4: Machine Learning with Python](/pdf/sample_presentation.pdf)
