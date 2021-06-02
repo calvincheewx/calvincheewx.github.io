@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio of Calvin Chee
 
 ---
 
@@ -22,6 +22,3 @@
 <img src="images/Capstone_4_Screenshot.PNG"/>
 
 ---
-(http://example.com/)
-(/pdf/sample_presentation.pdf)
-(sample_page.md)
