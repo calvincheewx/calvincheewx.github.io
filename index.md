@@ -7,13 +7,12 @@
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
 
 ---
-[Capstone Project 2: Data Analysis using SQL and creating Dashboard with Microsoft Excel](/pdf/sample_presentation.pdf)
+[Capstone Project 2: Data Analysis using SQL and creating Dashboard with Microsoft Excel](/pdf/Capstone_Project_2_Presentation.pdf)
 
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
 ---
 [Capstone Project 3: Creating Interactive Dashboard with PowerBI](http://example.com/)
-
 
 
 ---
