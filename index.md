@@ -2,7 +2,7 @@
 
 ---
 
-[Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel](/pdf/Capstone%20project%201%20Presentation.pdf)
+[Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel](/pdf/Capstone_Project_1_Presentation.pdf)
 
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
 
@@ -12,14 +12,15 @@
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
 ---
-[Capstone Project 3: Creating Interactive Dashboard with PowerBI](http://example.com/)
+[Capstone Project 3: Creating Interactive Dashboard with PowerBI](/pdf/Capstone_Project_3_Presentation.pdf)
 
 <img src="images/Capstone_3_Dashboards.PNG"/>
 
 ---
-[Capstone Project 4: Machine Learning with Python](/pdf/sample_presentation.pdf)
+[Capstone Project 4: Machine Learning with Python](/pdf/Capstone_Project_4_Presentation.pdf)
 
 
 
 ---
-
+(http://example.com/)
+(/pdf/sample_presentation.pdf)
