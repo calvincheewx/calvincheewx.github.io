@@ -19,7 +19,7 @@
 ---
 [Capstone Project 4: Machine Learning with Python](/pdf/Capstone_Project_4_Presentation.pdf)
 
-
+<img src="images/Capstone_4_Screenshot.PNG"/>
 
 ---
 (http://example.com/)
