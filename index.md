@@ -24,3 +24,4 @@
 ---
 (http://example.com/)
 (/pdf/sample_presentation.pdf)
+(sample_page.md)
