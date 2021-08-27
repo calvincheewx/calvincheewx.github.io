@@ -22,3 +22,6 @@
 <img src="images/Capstone_4_Screenshot.PNG"/>
 
 ---
+[Summative Capstone Project: Data Analysis using Python, SQL and PowerBI](/pdf/Summative_Capstone_Presentation.pdf)
+
+<img src="images/Summative_Capstone_Screenshot.PNG"/>
