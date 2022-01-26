@@ -16,7 +16,7 @@
 <img src="images/Capstone_3_Dashboards.PNG"/>
 
 ---
-[Capstone Project 2: Data Analysis using SQL and creating Dashboard with Microsoft Excel](/pdf/Capstone_Project_2_Presentation.pdf)
+[Capstone Project 2: Data Analysis using SQL, Creating Interactive Dashboard and Visualization using Excel](/pdf/Capstone_Project_2_Presentation.pdf)
 
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
