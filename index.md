@@ -77,21 +77,46 @@
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
 ---
-## Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel
+## Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Excel
 
-**Project description:**
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: Microsoft Excel
 
-### 1.
+### 1. Data collection from various sources
 
-### 2.
+a domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
 
-### 3.
+**Data Source:** Singapore Tourism Analytics Network (STAN) website [https://stan.stb.gov.sg/portal/tourism-statistics.html]
 
-### 4.
 
-### 5.
+### 2. Business needs gathering and Story building in relation to business needs
+
+This is the stage to decide on a real-world scenario with a real business or company and to decide on a convincing business need which can be used for the chosen dataset. After gathering the business needs, the next task is to build a storyline behind the data and the business needs. This is to be iterated and refined based on the business needs.
+
+**Target Audience:** Singapore Tourism Board (STB) Management 
+
+
+
+
+
+### 3. Data Preparation 
+
+**Perform data cleaning and transformation operations:** 
+1. Perform data cleaning and transformation operations
+2. Clean unwanted data
+3. Create and derive new columns
+4. Remove anomalies and outliers in the data
+5. Remove inconsistencies
+6. And others.
+
+
+### 4. Creating Interactive Dashboard and Visualization using Excel Dashboards
+
+<img src="images/Capstone_Project_1_Dashboard.PNG"/>
+
+
+### 5. Presenting to the stakeholders and Communicating insights derived based on decided business needs
 
 [Capstone Project 1 Presentation](/pdf/Capstone_Project_1_Presentation.pdf)
 
-<img src="images/Capstone_Project_1_Dashboard.PNG"/>
+
 
