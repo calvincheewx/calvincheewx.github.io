@@ -91,7 +91,7 @@ A domain of choice can be chosen on which analysis needs to be done. Areas could
 
 This is the stage to decide on a real-world scenario with a real business or company and to decide on a convincing business need which can be used for the chosen dataset. After gathering the business needs, the next task is to build a storyline behind the data and the business needs. This is to be iterated and refined based on the business needs.
 
-**Target Audience: Singapore Tourism Board (STB) Management ** 
+**Target Audience: Singapore Tourism Board (STB) Management** 
 
 <img src="images/STB_Problem_Statement_and_Business_needs.PNG"/>
 
