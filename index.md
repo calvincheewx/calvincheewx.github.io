@@ -84,7 +84,7 @@
 
 ### 1. Data collection from various sources
 
-a domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
+A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
 
 **Data Source:** Singapore Tourism Analytics Network (STAN) website [https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html]
 
@@ -98,7 +98,7 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 **Target Audience: Singapore Tourism Board (STB) Management ** 
 
-
+<img src=""/>
 
 
 
