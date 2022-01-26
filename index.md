@@ -18,9 +18,13 @@
 ---
 [Capstone Project 2: Data Analysis using SQL, Creating Interactive Dashboard and Visualization using Excel](/pdf/Capstone_Project_2_Presentation.pdf)
 
+**Project description:**
+
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
 ---
 [Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel](/pdf/Capstone_Project_1_Presentation.pdf)
+
+**Project description:**
 
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
