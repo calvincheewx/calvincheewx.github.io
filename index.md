@@ -81,18 +81,22 @@
 
 **Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: Microsoft Excel
 
+
 ### 1. Data collection from various sources
 
 a domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
 
-**Data Source:** Singapore Tourism Analytics Network (STAN) website [https://stan.stb.gov.sg/portal/tourism-statistics.html]
+**Data Source:** Singapore Tourism Analytics Network (STAN) website [https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html]
+
+
+
 
 
 ### 2. Business needs gathering and Story building in relation to business needs
 
 This is the stage to decide on a real-world scenario with a real business or company and to decide on a convincing business need which can be used for the chosen dataset. After gathering the business needs, the next task is to build a storyline behind the data and the business needs. This is to be iterated and refined based on the business needs.
 
-**Target Audience:** Singapore Tourism Board (STB) Management 
+**Target Audience: Singapore Tourism Board (STB) Management ** 
 
 
 
@@ -101,12 +105,15 @@ This is the stage to decide on a real-world scenario with a real business or com
 ### 3. Data Preparation 
 
 **Perform data cleaning and transformation operations:** 
-1. Perform data cleaning and transformation operations
-2. Clean unwanted data
-3. Create and derive new columns
-4. Remove anomalies and outliers in the data
-5. Remove inconsistencies
-6. And others.
+1. Clean unwanted data
+2. Create and derive new columns
+3. Remove anomalies and outliers in the data
+4. Remove inconsistencies
+5. And others.
+
+
+
+
 
 
 ### 4. Creating Interactive Dashboard and Visualization using Excel Dashboards
