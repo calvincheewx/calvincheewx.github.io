@@ -81,16 +81,11 @@
 
 **Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: Microsoft Excel
 
-
 ### 1. Data collection from various sources
 
 A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
 
 **Data Source:** Singapore Tourism Analytics Network (STAN) website [https://stan.stb.gov.sg/content/stan/en/tourism-statistics.html]
-
-
-
-
 
 ### 2. Business needs gathering and Story building in relation to business needs
 
@@ -98,9 +93,7 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 **Target Audience: Singapore Tourism Board (STB) Management ** 
 
-<img src=""/>
-
-
+<img src="images/STB_Problem_Statement_and_Business_needs.PNG"/>
 
 ### 3. Data Preparation 
 
@@ -111,15 +104,9 @@ This is the stage to decide on a real-world scenario with a real business or com
 4. Remove inconsistencies
 5. And others.
 
-
-
-
-
-
 ### 4. Creating Interactive Dashboard and Visualization using Excel Dashboards
 
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
-
 
 ### 5. Presenting to the stakeholders and Communicating insights derived based on decided business needs
 
