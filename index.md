@@ -21,6 +21,8 @@
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
 ---
-[Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel](/pdf/Capstone_Project_1_Presentation.pdf)
+##Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Microsoft Excel
+
+[Capstone Project 1 Presentation](/pdf/Capstone_Project_1_Presentation.pdf)
 
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
