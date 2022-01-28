@@ -59,20 +59,32 @@ The data sets will be sourced by the trainee, it needs to be uploaded in Power B
 
 After merging all the required tables and loading in the raw data, perform data cleaning and transformation operations.
 
+<img src="images/Capstone_3_Data_prepartation1.PNG"/>
+<img src="images/Capstone_3_Data_prepartation2.PNG"/>
+<img src="images/Capstone_3_Data_prepartation3.PNG"/>
+<img src="images/Capstone_3_Data_prepartation4.PNG"/>
 
 ## 3. Visualizing and formatting the data on Power BI
 
 Using the different charts and formatting options on Power BI, perform exploratory analysis on the data to create visuals and charts.
 
+<img src="images/Capstone_3_Visualizing_and_formatting_data_on_PowerBI.PNG"/>
 
 ## 4. Creating interactive dashboard & visualization using Power BI
+
+Once all the visuals and charts has been created, put it all together to create reports and dashboards which help in visualizing the data. Add slicers and trendline to make it more interactive.
 
 <img src="images/Capstone_3_Dashboards.PNG"/>
 
 ## 5. Presenting to the stakeholders and communicating insights
 
+Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
+
 ## - [Capstone Project 3 Presentation Link](/pdf/Capstone_Project_3_Presentation.pdf)
 
+<img src="images/Capstone_3_stakeholders.PNG"/>
+<img src="images/Capstone_3_Business_Qns.PNG"/>
+<img src="images/Capstone_3_Insights.PNG"/>
 
 
 
@@ -88,10 +100,10 @@ Using the different charts and formatting options on Power BI, perform explorato
 
 ## 2. Performing data cleaning & transformation on Microsoft Excel and SQL
 
+After loading in the raw data, perform data cleaning and transformation operations.
+
 <img src="images/Capstone_Project_2_data_preparation_1.PNG"/>
-
 <img src="images/Capstone_Project_2_data_preparation_2.PNG"/>
-
 <img src="images/Capstone_Project_2_data_preparation_3.PNG"/>
 
 ## 3. Creating tables & loaded data into SQL databases
@@ -99,9 +111,7 @@ Using the different charts and formatting options on Power BI, perform explorato
 Design the database schema, create the required tables, relationships and insert data sources in the above step into the respective SQL tables.
 
 <img src="images/Capstone_Project_2_ER_Diagram.PNG"/>
-
 <img src="images/Capstone_Project_2_Relational_Schema.PNG"/>
-
 <img src="images/Capstone_Project_2_Creating_tables_into_SQL.PNG"/>
 
 ## 4. Data analysis using SQL 
@@ -123,7 +133,6 @@ Create a story and business questions which will help you drive the presentation
 ## - [Capstone Project 2 Presentation Link](/pdf/Capstone_Project_2_Presentation.pdf)
 
 <img src="images/Capstone_Project_2_Stakeholders_and_Problem_statements.PNG"/>
-
 <img src="images/Capstone_Project_2_insights.PNG"/>
 
 
@@ -172,5 +181,4 @@ Present the dashboards in a way which will help to drive the presentation toward
 ## - [Capstone Project 1 Presentation Link](/pdf/Capstone_Project_1_Presentation.pdf)
 
 <img src="images/Insights_&_findings_1.PNG"/>
-
 <img src="images/Insights_&_findings_2.PNG"/>
