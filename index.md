@@ -7,6 +7,8 @@
 
 ## 1. Importing the Data
 
+A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
+
 ## 2. Performed data preparation (Data cleaning & transformation)
 
 ## 3. Performed Exploratory Data Analysis (EDA) 
@@ -27,19 +29,53 @@
 
 **Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models.
 
+
+
 ## 1. Importing the Data
 
-## 2. Performed data preparation (Data cleaning & transformation)
+A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
 
-## 3. Performed Exploratory Data Analysis (EDA) 
+<img src="images/Capstone_4_Data_Import.PNG"/>
+
+## 2. Performing data preparation (Data cleaning & transformation)
+
+After creating all the required tables and loading in the raw data, perform data cleaning and transformation operations. 
+
+
+
+## 3. Performing Exploratory Data Analysis (EDA) 
+
+Explore the data and observe the relationships using statistical methods. Identify outliers and assess the data for balance.
+
+
 
 ## 4. Data analysis using visualizations with Python
 
+Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations. e.g. Check for Skewness, correlation analysis.
+
+- Remove unnecessary data
+- Fill in and remove missing data
+- Convert Categorical / Object / String Variables to Numeric Data
+- And Others
+
+
+
+
 ## 5. Creating Machine learning models and evaluating performance 
+
+Once all the data has been prepared, create Machine Learning models using algorithms.
+
+- Baseline a Machine learning model from the defined problem, regression or classification.
+- Train at least 2 more models. Tune the model performances of subsequent models.
+- Select relevant model performance metrics based on defined problem for evaluation of trained models
+
+
 
 ## 6. Presenting to the stakeholders and communicating insights
 
-## - [Capstone Project 4 Presentation Link](/pdf/Capstone_Project_4_Presentation.pdf)
+Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
+
+## - [Capstone Project 4 Presentation Link](/pdf/Capstone_Project_4_Presentation_Updated.pdf)
 
 
 
@@ -51,7 +87,7 @@
 
 ## 1. Importing the Data
 
-The data sets will be sourced by the trainee, it needs to be uploaded in Power BI Desktop to start creating reports.
+The data sets will be sourced by the trainee, it needs to be uploaded in Power BI Desktop to start creating reports. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
 
 <img src="images/Capstone_3_Data_Collection.PNG"/>
 
@@ -96,7 +132,7 @@ Create a story and business questions which will help you drive the presentation
 
 ## 1. Data collection from Kaggle website
 
-A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
+A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
 
 <img src="images/Capstone_Project_2_data_collection.PNG"/>
 
@@ -168,7 +204,7 @@ After creating all the required tables and loading in the raw data, perform data
 2. Created and derived new columns
 3. Removed anomalies and outliers in the data
 4. Removed inconsistencies
-5. And others.
+5. And others
 
 ## 4. Creating Interactive Dashboard and Visualization using Excel Dashboards
 
