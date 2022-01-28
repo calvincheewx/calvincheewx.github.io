@@ -5,7 +5,7 @@
 
 **Project description:**
 
-### 1.
+### 1. Data collection and imported data from Kaggle website
 
 ### 2.
 
@@ -24,13 +24,13 @@
 
 **Project description:**
 
-### 1.
+### 1. Data collection and imported data from Kaggle website
 
 ### 2.
 
 ### 3.
 
-### 4.
+### 4. Presented data insights
 
 ### 5.
 
@@ -41,40 +41,42 @@
 ---
 ## Capstone Project 3: Creating Interactive Dashboard with Power BI
 
-**Project description:**
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel
 
-### 1.
+### 1. Imported data from Kaggle website
 
-### 2.
+### 2. Performed data preparation (Data cleaning & transformation)
 
-### 3.
+### 3. Visualizing and formatting the data on Power BI
 
-### 4.
-
-### 5.
-
-[Capstone Project 3 Presentation](/pdf/Capstone_Project_3_Presentation.pdf)
+### 4. Created interactive dashboard & visualization using Power BI
 
 <img src="images/Capstone_3_Dashboards.PNG"/>
+
+### 5. Presenting to the stakeholders and communicating insights
+
+[Capstone Project 3 Presentation](/pdf/Capstone_Project_3_Presentation.pdf)
 
 ---
 ## Capstone Project 2: Data Analysis using SQL and Creating Interactive Dashboard using Excel
 
 **Project description:**
 
-### 1.
+### 1. Data collection from Kaggle website
 
-### 2.
+### 2. Created tables & loaded data into SQL databases and performed data cleaning & transformation
 
-### 3.
+### 3. Data analysis using SQL 
 
-### 4.
-
-### 5.
-
-[Capstone Project 2 Presentation](/pdf/Capstone_Project_2_Presentation.pdf)
+### 4. Created interactive dashboard & visualization using Excel
 
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
+
+### 5. Presenting to the stakeholders and communicating insights
+
+- [Capstone Project 2 Presentation](/pdf/Capstone_Project_2_Presentation.pdf)
+
+
 
 ---
 ## Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Excel
@@ -98,10 +100,10 @@ This is the stage to decide on a real-world scenario with a real business or com
 ### 3. Data Preparation 
 
 **Perform data cleaning and transformation operations:** 
-1. Clean unwanted data
-2. Create and derive new columns
-3. Remove anomalies and outliers in the data
-4. Remove inconsistencies
+1. Cleaned unwanted data
+2. Created and derived new columns
+3. Removed anomalies and outliers in the data
+4. Removed inconsistencies
 5. And others.
 
 ### 4. Creating Interactive Dashboard and Visualization using Excel Dashboards
@@ -110,7 +112,7 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 ### 5. Presenting to the stakeholders and communicating insights derived based on decided business needs
 
-[Capstone Project 1 Presentation](/pdf/Capstone_Project_1_Presentation.pdf)
+- [Capstone Project 1 Presentation](/pdf/Capstone_Project_1_Presentation.pdf)
 
 
 
