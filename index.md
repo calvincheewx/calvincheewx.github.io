@@ -99,7 +99,7 @@ Perform analysis on the data to derive useful insights. Make use of different SQ
 
 ## 5. Created interactive dashboard & visualization using Excel
 
-Once all the data has been prepared in SQL, import the data into Excel directly from SQL. Create required pivot tables and charts to create reports and dashboards which help in visualizing the data and also in drawing useful insights. Create multiple reports from the data which help you tell a story to the stakeholders.
+Once all the data has been prepared in SQL, import the data into Excel directly from SQL. Create required pivot tables and charts to create reports and dashboards which help in visualizing the data and also in drawing useful insights. Create multiple reports from the data which help tell a story to the stakeholders.
 
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
