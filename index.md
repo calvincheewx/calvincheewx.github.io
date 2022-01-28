@@ -24,7 +24,7 @@
 ---
 ## Capstone Project 4: Machine Learning with Python
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models.
+**Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models.
 
 ### 1. Imported data from Kaggle website
 
@@ -45,7 +45,7 @@
 ---
 ## Capstone Project 3: Creating Interactive Dashboard with Power BI
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset.
+**Project description:** The main aim of the capstone project is to exhibit the stages of the data lifecycle using Power BI on the dataset.
 
 ### 1. Imported data from Kaggle website
 
@@ -64,7 +64,7 @@
 ---
 ## Capstone Project 2: Data Analysis using SQL and Creating Interactive Dashboard using Excel
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel.
+**Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of two tools: SQL and MS Excel.
 
 ### 1. Data collection from Kaggle website
 
@@ -85,7 +85,7 @@
 ---
 ## Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Excel
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: Microsoft Excel.
+**Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of the tool: Microsoft Excel.
 
 ### 1. Data collection from various sources
 
@@ -98,6 +98,7 @@ A domain of choice can be chosen on which analysis needs to be done. Areas could
 This is the stage to decide on a real-world scenario with a real business or company and to decide on a convincing business need which can be used for the chosen dataset. After gathering the business needs, the next task is to build a storyline behind the data and the business needs. This is to be iterated and refined based on the business needs.
 
 **Target Audience: Singapore Tourism Board (STB) Management** 
+
 
 <img src="images/STB_Problem_Statement_and_Business_needs.PNG"/>
 
