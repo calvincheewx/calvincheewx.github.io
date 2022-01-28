@@ -74,19 +74,31 @@
 
 ## 1. Data collection from Kaggle website
 
-## 2. Created tables & loaded data into SQL databases and performed data cleaning & transformation
 
-## 3. Data analysis using SQL 
 
-## 4. Created interactive dashboard & visualization using Excel
+## 2. Performed data cleaning & transformation on Microsoft Excel and SQL
+
+
+
+## 3. Created tables & loaded data into SQL databases
+
+
+
+## 4. Data analysis using SQL 
+
+
+
+## 5. Created interactive dashboard & visualization using Excel
 
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
-## 5. Presenting to the stakeholders and communicating insights
+## 6. Presenting to the stakeholders and communicating insights
 
 ### - [Capstone Project 2 Presentation Link](/pdf/Capstone_Project_2_Presentation.pdf)
 
 <img src="images/Capstone_Project_2_insights.PNG"/>
+
+
 
 
 
