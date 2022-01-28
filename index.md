@@ -113,7 +113,7 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
 
-### 5. Presenting to the stakeholders and communicating insights derived based on decided business needs
+## 5. Presenting to the stakeholders and communicating insights derived based on decided business needs
 
 - [Capstone Project 1 Presentation](/pdf/Capstone_Project_1_Presentation.pdf)
 
