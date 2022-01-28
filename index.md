@@ -47,21 +47,34 @@
 ---
 # Capstone Project 3: Creating Interactive Dashboard with Power BI
 
-**Project description:** The main aim of the capstone project is to exhibit the stages of the data lifecycle using Power BI on the dataset.
+**Project description:** The main aim of the capstone project is to exhibit the stages of the data lifecycle using Microsoft Power BI on the dataset.
 
 ## 1. Imported data from Kaggle website
 
-## 2. Performed data preparation (Data cleaning & transformation)
+The data sets will be sourced by the trainee, it needs to be uploaded in Power BI Desktop to start creating reports.
+
+<img src="images/Capstone_3_Data_Collection.PNG"/>
+
+## 2. Performing data preparation (Data cleaning & transformation)
+
+After merging all the required tables and loading in the raw data, perform data cleaning and transformation operations.
+
 
 ## 3. Visualizing and formatting the data on Power BI
 
-## 4. Created interactive dashboard & visualization using Power BI
+Using the different charts and formatting options on Power BI, perform exploratory analysis on the data to create visuals and charts.
+
+
+## 4. Creating interactive dashboard & visualization using Power BI
 
 <img src="images/Capstone_3_Dashboards.PNG"/>
 
 ## 5. Presenting to the stakeholders and communicating insights
 
 ## - [Capstone Project 3 Presentation Link](/pdf/Capstone_Project_3_Presentation.pdf)
+
+
+
 
 
 ---
@@ -73,7 +86,7 @@
 
 <img src="images/Capstone_Project_2_data_collection.PNG"/>
 
-## 2. Performed data cleaning & transformation on Microsoft Excel and SQL
+## 2. Performing data cleaning & transformation on Microsoft Excel and SQL
 
 <img src="images/Capstone_Project_2_data_preparation_1.PNG"/>
 
@@ -81,7 +94,7 @@
 
 <img src="images/Capstone_Project_2_data_preparation_3.PNG"/>
 
-## 3. Created tables & loaded data into SQL databases
+## 3. Creating tables & loaded data into SQL databases
 
 Design the database schema, create the required tables, relationships and insert data sources in the above step into the respective SQL tables.
 
@@ -97,7 +110,7 @@ Perform analysis on the data to derive useful insights. Make use of different SQ
 
 <img src="images/Capstone_Project_2_Data_Analysis_using_SQL.PNG"/>
 
-## 5. Created interactive dashboard & visualization using Excel
+## 5. Creating interactive dashboard & visualization using Excel
 
 Once all the data has been prepared in SQL, import the data into Excel directly from SQL. Create required pivot tables and charts to create reports and dashboards which help in visualizing the data and also in drawing useful insights. Create multiple reports from the data which help tell a story to the stakeholders.
 
@@ -136,7 +149,7 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 <img src="images/STB_Problem_Statement_and_Business_needs.PNG"/>
 
-## 3. Data Preparation 
+## 3. Performing data cleaning & transformation 
 
 After creating all the required tables and loading in the raw data, perform data cleaning and transformation operations:
 
