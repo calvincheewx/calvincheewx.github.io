@@ -58,6 +58,8 @@ Explore the data and observe the relationships using statistical methods. Identi
 
 Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations. e.g. Check for Skewness, correlation analysis.
 
+Created visualizations NumPy, Matplotlib & Seaborn visualizations
+
 <img src="images/Capstone_4_Data_Visualisation1.PNG"/>
 <img src="images/Capstone_4_Data_Visualisation2.PNG"/>
 
