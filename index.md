@@ -104,6 +104,8 @@
 
 ### - [Capstone Project 2 Presentation Link](/pdf/Capstone_Project_2_Presentation.pdf)
 
+<img src="images/Capstone_Project_2_Stakeholders_and_Problem_statements.PNG"/>
+
 <img src="images/Capstone_Project_2_insights.PNG"/>
 
 
