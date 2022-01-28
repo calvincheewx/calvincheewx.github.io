@@ -3,17 +3,19 @@
 ---
 ## Summative Capstone Project: Data Analysis using Python, SQL and Power BI
 
-**Project description:**
+**Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of various tools and techniques.
 
-### 1. Data collection and imported data from Kaggle website
+### 1. Imported data from Kaggle website
 
-### 2.
+### 2. Performed Exploratory Data Analysis (EDA) 
 
-### 3.
+### 3. Performed data preparation (Data cleaning & transformation)
 
-### 4.
+### 4. Performed sentimental analysis by creating machine learning models and evaluating performance
 
-### 5.
+### 5. Created interactive dashboard & visualization using Power BI 
+
+### 6. Presenting to the stakeholders and communicating insights
 
 [Summative Capstone Project Presentation](/pdf/Summative_Capstone_Presentation.pdf)
 
@@ -22,17 +24,19 @@
 ---
 ## Capstone Project 4: Machine Learning with Python
 
-**Project description:**
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models.
 
-### 1. Data collection and imported data from Kaggle website
+### 1. Imported data from Kaggle website
 
-### 2.
+### 2. Performed Exploratory Data Analysis (EDA) 
 
-### 3.
+### 3. Performed data preparation (Data cleaning & transformation)
 
-### 4. Presented data insights
+### 4. Data analysis using visualizations with Python
 
-### 5.
+### 5. Creating Machine learning models and evaluating performance 
+
+### 6. Presenting to the stakeholders and communicating insights
 
 [Capstone Project 4 Presentation](/pdf/Capstone_Project_4_Presentation.pdf)
 
@@ -41,7 +45,7 @@
 ---
 ## Capstone Project 3: Creating Interactive Dashboard with Power BI
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset.
 
 ### 1. Imported data from Kaggle website
 
@@ -60,7 +64,7 @@
 ---
 ## Capstone Project 2: Data Analysis using SQL and Creating Interactive Dashboard using Excel
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel.
 
 ### 1. Data collection from Kaggle website
 
@@ -81,7 +85,7 @@
 ---
 ## Capstone Project 1: Creating Interactive Dashboards and Data Storytelling with Excel
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: Microsoft Excel
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: Microsoft Excel.
 
 ### 1. Data collection from various sources
 
