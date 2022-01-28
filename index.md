@@ -45,7 +45,7 @@ After creating all the required tables and loading in the raw data, perform data
 - Fill in and remove missing data
 - Convert Categorical / Object / String Variables to Numeric Data
 - And Others
-- 
+
 <img src="images/Capstone_4_Data_Preparation.PNG"/>
 
 ## 3. Performing Exploratory Data Analysis (EDA) 
