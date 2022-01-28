@@ -41,25 +41,25 @@ A domain of choice can be chosen on which analysis needs to be done. Areas could
 
 After creating all the required tables and loading in the raw data, perform data cleaning and transformation operations. 
 
-
+- Remove unnecessary data
+- Fill in and remove missing data
+- Convert Categorical / Object / String Variables to Numeric Data
+- And Others
+- 
+<img src="images/Capstone_4_Data_Preparation.PNG"/>
 
 ## 3. Performing Exploratory Data Analysis (EDA) 
 
 Explore the data and observe the relationships using statistical methods. Identify outliers and assess the data for balance.
 
-
+<img src="images/Capstone_4_EDA.PNG"/>
 
 ## 4. Data analysis using visualizations with Python
 
 Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations. e.g. Check for Skewness, correlation analysis.
 
-- Remove unnecessary data
-- Fill in and remove missing data
-- Convert Categorical / Object / String Variables to Numeric Data
-- And Others
-
-
-
+<img src="images/Capstone_4_Data_Visualisation1.PNG"/>
+<img src="images/Capstone_4_Data_Visualisation2.PNG"/>
 
 ## 5. Creating Machine learning models and evaluating performance 
 
@@ -69,13 +69,21 @@ Once all the data has been prepared, create Machine Learning models using algori
 - Train at least 2 more models. Tune the model performances of subsequent models.
 - Select relevant model performance metrics based on defined problem for evaluation of trained models
 
-
+<img src="images/Capstone_4_ML_Model1.PNG"/>
+<img src="images/Capstone_4_ML_Model2.PNG"/>
+<img src="images/Capstone_4_ML_Model3.PNG"/>
+<img src="images/Capstone_4_ML_Model4.PNG"/>
 
 ## 6. Presenting to the stakeholders and communicating insights
 
 Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
 
 ## - [Capstone Project 4 Presentation Link](/pdf/Capstone_Project_4_Presentation_Updated.pdf)
+
+<img src="images/Capstone_4_Stakeholders.PNG"/>
+<img src="images/Capstone_4_Problem_Statements.PNG"/>
+<img src="images/Capstone_4_insights_conclusion.PNG"/>
+
 
 
 
