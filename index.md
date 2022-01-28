@@ -74,19 +74,27 @@
 
 ## 1. Data collection from Kaggle website
 
-
+<img src="images/Capstone_Project_2_data_collection.PNG"/>
 
 ## 2. Performed data cleaning & transformation on Microsoft Excel and SQL
 
+<img src="images/Capstone_Project_2_data_preparation_1.PNG"/>
 
+<img src="images/Capstone_Project_2_data_preparation_2.PNG"/>
+
+<img src="images/Capstone_Project_2_data_preparation_3.PNG"/>
 
 ## 3. Created tables & loaded data into SQL databases
 
+<img src="images/Capstone_Project_2_ER_Diagram.PNG"/>
 
+<img src="images/Capstone_Project_2_Relational_Schema.PNG"/>
+
+<img src="images/Capstone_Project_2_Creating_tables_into_SQL.PNG"/>
 
 ## 4. Data analysis using SQL 
 
-
+<img src="images/Capstone_Project_2_Data_Analysis_using_SQL.PNG"/>
 
 ## 5. Created interactive dashboard & visualization using Excel
 
