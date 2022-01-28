@@ -7,9 +7,9 @@
 
 ### 1. Imported data from Kaggle website
 
-### 2. Performed Exploratory Data Analysis (EDA) 
+### 2. Performed data preparation (Data cleaning & transformation)
 
-### 3. Performed data preparation (Data cleaning & transformation)
+### 3. Performed Exploratory Data Analysis (EDA) 
 
 ### 4. Performed sentimental analysis by creating machine learning models and evaluating performance
 
@@ -28,9 +28,9 @@
 
 ### 1. Imported data from Kaggle website
 
-### 2. Performed Exploratory Data Analysis (EDA) 
+### 2. Performed data preparation (Data cleaning & transformation)
 
-### 3. Performed data preparation (Data cleaning & transformation)
+### 3. Performed Exploratory Data Analysis (EDA) 
 
 ### 4. Data analysis using visualizations with Python
 
