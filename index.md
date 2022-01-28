@@ -11,13 +11,35 @@ A domain of choice can be chosen on which analysis needs to be done. Areas could
 
 ## 2. Performed data preparation (Data cleaning & transformation)
 
+After creating all the required tables and loading in the raw data, perform data cleaning and transformation operations. 
+
+- Clean unwanted data
+- Perform feature engineering to, Create and derive new columns
+- Remove anomalies and outliers in the data
+- Remove inconsistencies
+- And others
+
 ## 3. Performed Exploratory Data Analysis (EDA) 
 
-## 4. Performed sentimental analysis by creating machine learning models and evaluating performance
+Explore the data and observe the relationships using statistical methods. Identify outliers and assess the data for balance.
 
-## 5. Created interactive dashboard & visualization using Power BI 
+## 4. Created interactive dashboard & visualization using Power BI 
+
+Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations. e.g. Check for Skewness, correlation analysis.
+
+Created visualizations using NumPy, Matplotlib & Seaborn libraries
+
+## 5. Performed Predictive Analytics by creating Machine learning models and evaluating performance
+
+Once all the data has been prepared, create Machine Learning models using algorithms.
+
+- Baseline a Machine learning model from the defined problem, regression or classification.
+- Train at least 2 more models. Tune the model performances of subsequent models.
+- Select relevant model performance metrics based on defined problem for evaluation of trained models
 
 ## 6. Presenting to the stakeholders and communicating insights
+
+Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
 
 ## - [Summative Capstone Project Presentation Link](/pdf/Summative_Capstone_Presentation.pdf)
 
@@ -44,7 +66,7 @@ After creating all the required tables and loading in the raw data, perform data
 - Remove unnecessary data
 - Fill in and remove missing data
 - Convert Categorical / Object / String Variables to Numeric Data
-- And Others
+- And others
 
 <img src="images/Capstone_4_Data_Preparation.PNG"/>
 
@@ -58,7 +80,7 @@ Explore the data and observe the relationships using statistical methods. Identi
 
 Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations. e.g. Check for Skewness, correlation analysis.
 
-Created visualizations NumPy, Matplotlib & Seaborn visualizations
+Created visualizations using NumPy, Matplotlib & Seaborn libraries
 
 <img src="images/Capstone_4_Data_Visualisation1.PNG"/>
 <img src="images/Capstone_4_Data_Visualisation2.PNG"/>
