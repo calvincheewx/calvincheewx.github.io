@@ -41,7 +41,7 @@
 ---
 ## Capstone Project 3: Creating Interactive Dashboard with Power BI
 
-**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle using PowerBI on the dataset
 
 ### 1. Imported data from Kaggle website
 
@@ -60,7 +60,7 @@
 ---
 ## Capstone Project 2: Data Analysis using SQL and Creating Interactive Dashboard using Excel
 
-**Project description:**
+**Project description:** The main aim of the capstone project is to exhibit the five stages of the data lifecycle through the use of two tools: SQL and MS Excel
 
 ### 1. Data collection from Kaggle website
 
