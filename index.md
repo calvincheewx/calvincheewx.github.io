@@ -17,9 +17,8 @@
 
 ## 6. Presenting to the stakeholders and communicating insights
 
-[Summative Capstone Project Presentation](/pdf/Summative_Capstone_Presentation.pdf)
+## - [Summative Capstone Project Presentation Link](/pdf/Summative_Capstone_Presentation.pdf)
 
-<img src="images/Summative_Capstone_Screenshot.PNG"/>
 
 
 
@@ -40,9 +39,8 @@
 
 ## 6. Presenting to the stakeholders and communicating insights
 
-[Capstone Project 4 Presentation](/pdf/Capstone_Project_4_Presentation.pdf)
+## - [Capstone Project 4 Presentation Link](/pdf/Capstone_Project_4_Presentation.pdf)
 
-<img src="images/Capstone_4_Screenshot.PNG"/>
 
 
 
@@ -63,8 +61,7 @@
 
 ## 5. Presenting to the stakeholders and communicating insights
 
-[Capstone Project 3 Presentation](/pdf/Capstone_Project_3_Presentation.pdf)
-
+## - [Capstone Project 3 Presentation Link](/pdf/Capstone_Project_3_Presentation.pdf)
 
 
 ---
@@ -102,7 +99,7 @@
 
 ## 6. Presenting to the stakeholders and communicating insights
 
-### - [Capstone Project 2 Presentation Link](/pdf/Capstone_Project_2_Presentation.pdf)
+## - [Capstone Project 2 Presentation Link](/pdf/Capstone_Project_2_Presentation.pdf)
 
 <img src="images/Capstone_Project_2_Stakeholders_and_Problem_statements.PNG"/>
 
@@ -146,7 +143,7 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 ## 5. Presenting to the stakeholders and communicating insights derived based on decided business needs
 
-### - [Capstone Project 1 Presentation Link](/pdf/Capstone_Project_1_Presentation.pdf)
+## - [Capstone Project 1 Presentation Link](/pdf/Capstone_Project_1_Presentation.pdf)
 
 <img src="images/Insights_&_findings_1.PNG"/>
 
