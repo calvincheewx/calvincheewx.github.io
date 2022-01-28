@@ -5,7 +5,7 @@
 
 **Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of various tools and techniques.
 
-## 1. Imported data from Kaggle website
+## 1. Importing the Data
 
 ## 2. Performed data preparation (Data cleaning & transformation)
 
@@ -27,7 +27,7 @@
 
 **Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of various machine learning algorithms: Linear Regression, Logistic Regression, SVM, K-means, Random Forest and any other machine learning models.
 
-## 1. Imported data from Kaggle website
+## 1. Importing the Data
 
 ## 2. Performed data preparation (Data cleaning & transformation)
 
@@ -49,7 +49,7 @@
 
 **Project description:** The main aim of the capstone project is to exhibit the stages of the data lifecycle using Microsoft Power BI on the dataset.
 
-## 1. Imported data from Kaggle website
+## 1. Importing the Data
 
 The data sets will be sourced by the trainee, it needs to be uploaded in Power BI Desktop to start creating reports.
 
@@ -95,6 +95,8 @@ Create a story and business questions which will help you drive the presentation
 **Project description:** The main aim of the capstone project is to exhibit the different stages of the data lifecycle through the use of two tools: SQL and MS Excel.
 
 ## 1. Data collection from Kaggle website
+
+A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others.
 
 <img src="images/Capstone_Project_2_data_collection.PNG"/>
 
