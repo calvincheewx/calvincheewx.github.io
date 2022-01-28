@@ -106,7 +106,7 @@
 
 <img src="images/Capstone_Project_2_Stakeholders_and_Problem_statements.PNG"/>
 
-<img src="images/Capstone_Project_2_insight.PNG"/>
+<img src="images/Capstone_Project_2_insights.PNG"/>
 
 
 
