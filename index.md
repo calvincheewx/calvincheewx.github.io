@@ -83,6 +83,8 @@
 
 ## 3. Created tables & loaded data into SQL databases
 
+Design the database schema, create the required tables, relationships and insert data sources in the above step into the respective SQL tables.
+
 <img src="images/Capstone_Project_2_ER_Diagram.PNG"/>
 
 <img src="images/Capstone_Project_2_Relational_Schema.PNG"/>
@@ -91,13 +93,19 @@
 
 ## 4. Data analysis using SQL 
 
+Perform analysis on the data to derive useful insights. Make use of different SQL operations such as joins, grouping, filters and others during analysis.
+
 <img src="images/Capstone_Project_2_Data_Analysis_using_SQL.PNG"/>
 
 ## 5. Created interactive dashboard & visualization using Excel
 
+Once all the data has been prepared in SQL, import the data into Excel directly from SQL. Create required pivot tables and charts to create reports and dashboards which help in visualizing the data and also in drawing useful insights. Create multiple reports from the data which help you tell a story to the stakeholders.
+
 <img src="images/Capstone_Project_2_Dashboard.PNG"/>
 
 ## 6. Presenting to the stakeholders and communicating insights
+
+Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
 
 ## - [Capstone Project 2 Presentation Link](/pdf/Capstone_Project_2_Presentation.pdf)
 
@@ -130,7 +138,8 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 ## 3. Data Preparation 
 
-**Perform data cleaning and transformation operations:** 
+After creating all the required tables and loading in the raw data, perform data cleaning and transformation operations:
+
 1. Cleaned unwanted data
 2. Created and derived new columns
 3. Removed anomalies and outliers in the data
@@ -139,9 +148,13 @@ This is the stage to decide on a real-world scenario with a real business or com
 
 ## 4. Creating Interactive Dashboard and Visualization using Excel Dashboards
 
+Create required pivot tables and charts to create reports and dashboards which help in visualizing the data and also in drawing useful insights. Create multiple reports from the data which help you tell a story to the stakeholders.
+
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
 
 ## 5. Presenting to the stakeholders and communicating insights derived based on decided business needs
+
+Present the dashboards in a way which will help to drive the presentation towards the “aha” moment.
 
 ## - [Capstone Project 1 Presentation Link](/pdf/Capstone_Project_1_Presentation.pdf)
 
