@@ -1,4 +1,4 @@
-# Portfolio of Calvin Chee
+# **Portfolio of Calvin Chee**
 
 ---
 # Summative Capstone Project: Data Analysis using Python, SQL and Power BI
