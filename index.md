@@ -11,7 +11,7 @@ A domain of choice can be chosen on which analysis needs to be done. Areas could
 
 **Data Source:** https://www.kaggle.com/dwiknrd/reviewuniversalstudio
 
-<img src="Summative_Capstone_data_import.PNG"/>
+<img src="images/Summative_Capstone_data_import.PNG"/>
 
 ## 2. Performed data preparation (Data cleaning & transformation)
 
