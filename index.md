@@ -9,6 +9,10 @@
 
 A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
 
+**Data Source:** https://www.kaggle.com/dwiknrd/reviewuniversalstudio
+
+<img src="Summative_Capstone_data_import.PNG"/>
+
 ## 2. Performed data preparation (Data cleaning & transformation)
 
 After creating all the required tables and loading in the raw data, perform data cleaning and transformation operations. 
@@ -23,11 +27,15 @@ After creating all the required tables and loading in the raw data, perform data
 
 Explore the data and observe the relationships using statistical methods. Identify outliers and assess the data for balance.
 
-## 4. Created interactive dashboard & visualization using Power BI 
+<img src="images/Summative_Capstone_EDA.PNG"/>
 
-Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations. e.g. Check for Skewness, correlation analysis.
+## 4. Data analysis using visualizations with Python
+
+Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations.
 
 Created visualizations using NumPy, Matplotlib & Seaborn libraries
+
+<img src="images/Summative_Capstone_Data_Analysis_Visual.PNG"/>
 
 ## 5. Performed Predictive Analytics by creating Machine learning models and evaluating performance
 
@@ -37,11 +45,21 @@ Once all the data has been prepared, create Machine Learning models using algori
 - Train at least 2 more models. Tune the model performances of subsequent models.
 - Select relevant model performance metrics based on defined problem for evaluation of trained models
 
-## 6. Presenting to the stakeholders and communicating insights
+## 6. Created interactive dashboard & visualization using Power BI 
+
+Using the different charts and formatting options on Power BI, perform exploratory analysis on the data to create visuals and charts.
+
+<img src="images/Summative_Capstone_dashboard_sceenshot.PNG"/>
+
+## 7. Presenting to the stakeholders and communicating insights
 
 Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
 
 ## - [Summative Capstone Project Presentation Link](/pdf/Summative_Capstone_Presentation.pdf)
+
+<img src="images/Summative_Capstone_stakeholder_objectives.PNG"/>
+<img src="images/Summative_Capstone_conclusion_insights.PNG"/>
+
 
 
 
