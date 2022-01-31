@@ -35,6 +35,7 @@ After creating all the required tables and loading in the raw data, perform data
 <img src="images/Summative_Capstone_Data_Cleaning_8.PNG"/>
 <img src="images/Summative_Capstone_Data_Cleaning_9.PNG"/>
 <img src="images/Summative_Capstone_Data_Cleaning_10.PNG"/>
+<img src="images/Summative_Capstone_SQL.PNG"/>
 
 ## 3. Performed Exploratory Data Analysis (EDA) 
 
