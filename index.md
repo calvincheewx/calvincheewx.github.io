@@ -305,9 +305,9 @@ After creating all the required tables and loading in the raw data, perform data
 Create required pivot tables and charts to create reports and dashboards which help in visualizing the data and also in drawing useful insights. Create multiple reports from the data which help you tell a story to the stakeholders.
 
 <img src="images/Capstone_Project_1_Dashboard.PNG"/>
-<img src="images/Capstone_Project_1_Dashboard.PNG"/>
-<img src="images/Capstone_Project_1_Dashboard.PNG"/>
-<img src="images/Capstone_Project_1_Dashboard.PNG"/>
+<img src="images/Capstone_Project_1_Dashboard1.PNG"/>
+<img src="images/Capstone_Project_1_Dashboard2.PNG"/>
+<img src="images/Capstone_Project_1_Dashboard3.PNG"/>
 
 ## 5. Presenting to the stakeholders and communicating insights derived based on decided business needs
 
