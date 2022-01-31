@@ -75,6 +75,8 @@ Create a story and business questions which will help you drive the presentation
 
 A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
 
+**Data Source:** https://www.kaggle.com/teejmahal20/airline-passenger-satisfaction
+
 <img src="images/Capstone_4_Data_Import.PNG"/>
 
 ## 2. Performing data preparation (Data cleaning & transformation)
