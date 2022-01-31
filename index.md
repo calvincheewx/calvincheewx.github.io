@@ -23,17 +23,30 @@ After creating all the required tables and loading in the raw data, perform data
 - Remove inconsistencies
 - And others
 
+<img src="images/Summative_Capstone_Data_transform_0.PNG"/>
+<img src="images/Summative_Capstone_Data_transform_1.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_1.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_2.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_3.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_4.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_5.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_6.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_7.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_8.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_9.PNG"/>
+<img src="images/Summative_Capstone_Data_Cleaning_10.PNG"/>
+
 ## 3. Performed Exploratory Data Analysis (EDA) 
 
 Explore the data and observe the relationships using statistical methods. Identify outliers and assess the data for balance.
 
 <img src="images/Summative_Capstone_EDA.PNG"/>
+<img src="images/Summative_Capstone_data_import.PNG"/>
+
 
 ## 4. Data analysis using visualizations with Python
 
 Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations.
-
-Created visualizations using NumPy, Matplotlib & Seaborn libraries
 
 <img src="images/Summative_Capstone_Data_Analysis_Visual.PNG"/>
 
