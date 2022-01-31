@@ -42,14 +42,20 @@ After creating all the required tables and loading in the raw data, perform data
 Explore the data and observe the relationships using statistical methods. Identify outliers and assess the data for balance.
 
 <img src="images/Summative_Capstone_EDA.PNG"/>
-<img src="images/Summative_Capstone_data_import.PNG"/>
-
+<img src="images/Summative_Capstone_EDA1.PNG"/>
+<img src="images/Summative_Capstone_EDA2.PNG"/>
+<img src="images/Summative_Capstone_EDA3.PNG"/>
+<img src="images/Summative_Capstone_EDA4.PNG"/>
+<img src="images/Summative_Capstone_EDA5.PNG"/>
 
 ## 4. Data analysis using visualizations with Python
 
 Using the methods learnt during the Machine Learning and Python course, Perform the analysis using visualizations.
 
 <img src="images/Summative_Capstone_Data_Analysis_Visual.PNG"/>
+<img src="images/Summative_Capstone_Data_Analysis_Visual1.PNG"/>
+<img src="images/Summative_Capstone_Data_Analysis_Visual2.PNG"/>
+<img src="images/Summative_Capstone_Data_Analysis_Visual3.PNG"/>
 
 ## 5. Performed Predictive Analytics by creating Machine learning models and evaluating performance
 
@@ -59,11 +65,25 @@ Once all the data has been prepared, create Machine Learning models using algori
 - Train at least 2 more models. Tune the model performances of subsequent models.
 - Select relevant model performance metrics based on defined problem for evaluation of trained models
 
+<img src="images/Summative_Capstone_ML_1.PNG"/>
+<img src="images/Summative_Capstone_ML_2.PNG"/>
+<img src="images/Summative_Capstone_ML_3.PNG"/>
+<img src="images/Summative_Capstone_ML_4.PNG"/>
+<img src="images/Summative_Capstone_ML_5.PNG"/>
+<img src="images/Summative_Capstone_ML_6.PNG"/>
+<img src="images/Summative_Capstone_ML_7.PNG"/>
+<img src="images/Summative_Capstone_ML_8.PNG"/>
+<img src="images/Summative_Capstone_ML_9.PNG"/>
+<img src="images/Summative_Capstone_ML_10.PNG"/>
+
 ## 6. Created interactive dashboard & visualization using Power BI 
 
 Using the different charts and formatting options on Power BI, perform exploratory analysis on the data to create visuals and charts.
 
 <img src="images/Summative_Capstone_dashboard_sceenshot.PNG"/>
+<img src="images/Summative_Capstone_PowerBI_1.PNG"/>
+<img src="images/Summative_Capstone_PowerBI_2.PNG"/>
+<img src="images/Summative_Capstone_PowerBI_3.PNG"/>
 
 ## 7. Presenting to the stakeholders and communicating insights
 
