@@ -175,6 +175,8 @@ Create a story and business questions which will help you drive the presentation
 
 The data sets will be sourced by the trainee, it needs to be uploaded in Power BI Desktop to start creating reports. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
 
+**Data Source:** https://www.kaggle.com/jessemostipak/hotel-booking-demand
+
 <img src="images/Capstone_3_Data_Collection.PNG"/>
 
 ## 2. Performing data preparation (Data cleaning & transformation)
@@ -219,6 +221,12 @@ Create a story and business questions which will help you drive the presentation
 ## 1. Data collection from Kaggle website
 
 A domain of choice can be chosen on which analysis needs to be done. Areas could be sales, marketing, finance, retail, healthcare, or others. Data can be collected from various sources on the web such as google public datasets, Socrata open data, kaggle and others.
+
+**Data Source:** 
+
+https://www.kaggle.com/jiashenliu/515k-hotel-reviews-data-in-europe
+
+https://www.kaggle.com/ycalisar/hotel-reviews-dataset-enriched
 
 <img src="images/Capstone_Project_2_data_collection.PNG"/>
 
