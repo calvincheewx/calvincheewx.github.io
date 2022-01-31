@@ -55,7 +55,7 @@ Using the different charts and formatting options on Power BI, perform explorato
 
 Create a story and business questions which will help you drive the presentation. Once created all the required reports and dashboards, it would be presented to the stakeholders.
 
-## - [Summative Capstone Project Presentation Link](/pdf/Summative_Capstone_Presentation.pdf)
+## - [Summative Capstone Project Presentation Link](/pdf/Summative_Capstone_Presentatio.pdf)
 
 <img src="images/Summative_Capstone_stakeholder_objectives.PNG"/>
 <img src="images/Summative_Capstone_conclusion_insights.PNG"/>
