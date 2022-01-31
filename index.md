@@ -65,6 +65,7 @@ Once all the data has been prepared, create Machine Learning models using algori
 - Train at least 2 more models. Tune the model performances of subsequent models.
 - Select relevant model performance metrics based on defined problem for evaluation of trained models
 
+<img src="images/Summative_Capstone_ML_0.PNG"/>
 <img src="images/Summative_Capstone_ML_1.PNG"/>
 <img src="images/Summative_Capstone_ML_2.PNG"/>
 <img src="images/Summative_Capstone_ML_3.PNG"/>
@@ -80,7 +81,6 @@ Once all the data has been prepared, create Machine Learning models using algori
 
 Using the different charts and formatting options on Power BI, perform exploratory analysis on the data to create visuals and charts.
 
-<img src="images/Summative_Capstone_dashboard_sceenshot.PNG"/>
 <img src="images/Summative_Capstone_PowerBI_1.PNG"/>
 <img src="images/Summative_Capstone_PowerBI_2.PNG"/>
 <img src="images/Summative_Capstone_PowerBI_3.PNG"/>
